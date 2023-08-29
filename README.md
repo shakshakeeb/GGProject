@@ -1,5 +1,1 @@
-# GGProject
-# GGProject
-# GGProject
-# GGProject
-# GGProject
+#GGProject, short for GameGuide is a project that was created in my second year at Goldmsiths where I decided to pursue and develop a ‘User Game Guide’ system, conveyed through a website, targeted particularly for gamers. It provides users with in-game tips and advice driven through a video pop-up for any game that they wish to play. This website will be user friendly in a way where we have created sign-up, thus, login processes so that you will be able to navigate this website in whatever way you would like. It is integral that users are provided with implementation of video assistance and not just written text on the screen. As a result, we’ve made it an imperative part of our design. As a group full of gamers ourselves, we feel that creating something like this contributes to keeping alive this passionate niche of game guide enthusiasts.
